@@ -1,3 +1,3 @@
-openjdk:8-jdk-buster
+nginx
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
